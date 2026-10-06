@@ -4,25 +4,11 @@
   <img alt="An illustration of Alisha at her desk with her laptop and her cat, in front of a window" src="assets/banner-day.jpg" width="100%">
 </picture>
 
-# hi, i'm alisha 👋
+# hi, i'm alisha!
 
-**third-year software engineering student at mcmaster university**, building things that feel good to use.
-right now i'm looking for **internships** ✨
+**third-year software engineering student at mcmaster university**, building innovative projects for fun, daily use, and to channel my creativity.
 
-- 🏠 my portfolio is a cozy room that changes with hamilton's real weather: **[come visit](https://alishaaaaaaaa.github.io/alishasportfolio/)**
-- 🐈 my coworker is a 4-year-old bengal tabby mix who sits next to me through every line of code
-- 🎥 off the clock: videography, art, hiking, cooking, movies and books
-
-<br>
-
-### things i've built
-
-| project | what it is |
-|---|---|
-| **[roomify](https://github.com/alishaaaaaaaa/roomify)** · [live ↗](https://roomify-zz16.onrender.com) | design a room, furnish it with real products you can buy, walk through it in 3d, and check out. react, three.js, shopify api |
-| **[brain surgery simulator](https://github.com/alishaaaaaaaa/brain-surgery-simulator)** | a browser simulator of microsurgical aneurysm clipping, seen through an operating microscope. typescript, three.js, web audio |
-| **[echocases](https://github.com/alishaaaaaaaa/EchoCases)** · [demo ↗](https://youtu.be/KhEZa9hirzo) | an ai cold-case platform that finds hidden connections between unsolved cases. python, flask, react, scikit-learn |
-| **[this portfolio](https://github.com/alishaaaaaaaa/alishasportfolio)** | a live room: real-time weather, blinds you open by scrolling, and a cat you can click |
+right now i'm looking for **summer 2027 internships** 
 
 <br>
 
@@ -41,18 +27,8 @@ right now i'm looking for **internships** ✨
 
 <br>
 
-### around campus
-
-- 🎪 **events executive** at [deltahacks](https://deltahacks.com), one of canada's biggest hackathons (700+ hackers)
-- 💌 **marketing director** at mcmaster islamic relief, $100k+ raised for charity
-- 🏎️ **human factors & ergonomics** at mcmaster formula electric
-
-<br>
-
 ### say hi
 
 [![Email](https://img.shields.io/badge/alishafaridi@gmail.com-1b1622?style=flat-square&logo=gmail&logoColor=white)](mailto:alishafaridi@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/linkedin-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alisha-faridi)
 [![Portfolio](https://img.shields.io/badge/portfolio-f6eddc?style=flat-square&logo=homeassistant&logoColor=1b1622)](https://alishaaaaaaaa.github.io/alishasportfolio/)
-
-or click the coffee mug on my portfolio ☕

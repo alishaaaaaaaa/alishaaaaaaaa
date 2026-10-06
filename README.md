@@ -31,4 +31,5 @@ right now i'm looking for **summer 2027 internships**
 [![Portfolio](https://img.shields.io/badge/portfolio-f6eddc?style=flat-square&logo=homeassistant&logoColor=1b1622)](https://alishaaaaaaaa.github.io/alishasportfolio/)
 
 <!-- profile view counter: counts every visit to this profile -->
-<p align="right"><img src="https://komarev.com/ghpvc/?username=alishaaaaaaaa&label=visitors&color=1b1622&style=flat-square" alt="profile views"></p>
+<p align="right"><img src="https://komarev.com/ghpvc/?username=alishaaaaaaaa&label=visitors&color=c97b4a&style=flat-square" alt="profile views"></p>
+

@@ -9,7 +9,6 @@
 **third-year software engineering student at mcmaster university**, building innovative projects for fun, daily use, and to channel my creativity.
 
 right now i'm looking for **summer 2027 internships** 
-
 <br>
 
 ### what i work with
@@ -24,11 +23,9 @@ right now i'm looking for **summer 2027 internships**
 ![Tailwind](https://img.shields.io/badge/tailwind-0F172A?style=flat-square&logo=tailwindcss&logoColor=38BDF8)
 ![Vite](https://img.shields.io/badge/vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 ![Git](https://img.shields.io/badge/git-F05032?style=flat-square&logo=git&logoColor=white)
-
 <br>
 
 ### say hi
-
 [![Email](https://img.shields.io/badge/alishafaridi@gmail.com-1b1622?style=flat-square&logo=gmail&logoColor=white)](mailto:alishafaridi@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/linkedin-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alisha-faridi)
 [![Portfolio](https://img.shields.io/badge/portfolio-f6eddc?style=flat-square&logo=homeassistant&logoColor=1b1622)](https://alishaaaaaaaa.github.io/alishasportfolio/)

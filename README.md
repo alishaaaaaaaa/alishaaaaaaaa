@@ -6,7 +6,7 @@
 
 # hi, i'm alisha!
 
-**third-year software engineering student at mcmaster university**, building innovative projects for fun, daily use, and to channel my creativity.
+i'm a **third-year software engineering student at mcmaster university**, building innovative projects for fun, daily use, and to channel my creativity.
 
 right now i'm looking for **summer 2027 internships** 
 <br>

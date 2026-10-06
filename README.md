@@ -1,7 +1,7 @@
 <!-- the night room shows in dark mode, the sunny one in light mode -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-night.jpg">
-  <img alt="An illustration of Alisha at her desk with her laptop and her cat, in front of a window" src="assets/banner-day.jpg" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="banner-night.jpg">
+  <img alt="An illustration of Alisha at her desk with her laptop and her cat, in front of a window" src="banner-day.jpg" width="100%">
 </picture>
 
 # hi, i'm alisha!
